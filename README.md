@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgat3000&theme=radical)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgat3000&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 <div align="center">
