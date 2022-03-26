@@ -24,6 +24,7 @@ Here are some ideas to get you started:
  [![Website Badge](https://img.shields.io/badge/-pablogatgens.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://pablogatgens.com)](https://pablogatgens.com)
  
     <a href="https://www.instagram.com/pablogatgens/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href = "pablo.gatgens.chaves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    <a href="https://www.linkedin.com/in/pablo-gatgens-618856141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
