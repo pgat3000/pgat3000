@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgat3000&theme=radical)
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgat3000&theme=radical)
   
 </div>
 <div align="center">
