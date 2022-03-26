@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgat3000&theme=radical)
-
+</div>
 <div align="center">
     <a href="https://www.instagram.com/pabloagatgens/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "pablo.gatgens.chaves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
